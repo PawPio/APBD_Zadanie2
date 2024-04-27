@@ -1,4 +1,4 @@
-﻿namespace APBD_Zadanie_4
+﻿namespace APBD_Zadanie_4.Models
 {
     public class AnimalsDataStore
     {
